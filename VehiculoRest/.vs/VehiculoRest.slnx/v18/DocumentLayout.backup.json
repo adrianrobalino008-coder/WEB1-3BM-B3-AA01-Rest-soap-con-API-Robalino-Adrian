@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\vehiculorest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\vehiculorest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\data\\vehiculodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\data\\vehiculodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\controllers\\mantenimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\controllers\\mantenimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|c:\\users\\lenov\\documents\\programacionweb\\vehiculorest\\vehiculorest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C715AD4-B972-4BAA-A26C-E475EB1FE73C}|VehiculoRest\\VehiculoRest.csproj|solutionrelative:vehiculorest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculoRest",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\VehiculoRest.csproj",
+              "RelativeDocumentMoniker": "VehiculoRest\\VehiculoRest.csproj",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\VehiculoRest.csproj",
+              "RelativeToolTip": "VehiculoRest\\VehiculoRest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T00:34:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Program.cs",
+              "RelativeDocumentMoniker": "VehiculoRest\\Program.cs",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Program.cs",
+              "RelativeToolTip": "VehiculoRest\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:58:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Data\\VehiculoDbContext.cs",
+              "RelativeDocumentMoniker": "VehiculoRest\\Data\\VehiculoDbContext.cs",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Data\\VehiculoDbContext.cs",
+              "RelativeToolTip": "VehiculoRest\\Data\\VehiculoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:54:55.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Models\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "VehiculoRest\\Models\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Models\\Mantenimiento.cs",
+              "RelativeToolTip": "VehiculoRest\\Models\\Mantenimiento.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:52:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MantenimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Controllers\\MantenimientosController.cs",
+              "RelativeDocumentMoniker": "VehiculoRest\\Controllers\\MantenimientosController.cs",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\Controllers\\MantenimientosController.cs",
+              "RelativeToolTip": "VehiculoRest\\Controllers\\MantenimientosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:30:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\appsettings.json",
+              "RelativeDocumentMoniker": "VehiculoRest\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenov\\Documents\\programacionWEB\\VehiculoRest\\VehiculoRest\\appsettings.json",
+              "RelativeToolTip": "VehiculoRest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T15:58:34.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
